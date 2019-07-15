@@ -3,5 +3,10 @@ puts "My kids are hilarious"
 puts "Chick fil a rocks"
 
 puts "Here's a second paragraph"
-puts "Really its useless"
+puts "Really its useless."
 puts "I dont know"
+
+puts "A third paragraph" 
+
+print "Enter your Name"
+name = gets.chomp
